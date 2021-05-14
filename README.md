@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Marcos Maia or simply @mamgjunior
 - 👀 I am a software developer, currently I work with desktop applications but I am very interested and motivated by web development
 - 🌱 I am currently studying Python and its technologies, I am studying the web frameworks Flask and Django and particularly I really liked Django
-- 💞️  ...
-- 📫  ...
+- 📫  You can contact me through my twitter or through linkedin ...
 
 <!---
 mamgjunior/mamgjunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
